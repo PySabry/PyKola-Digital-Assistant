@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+.idea
+build
+dist
+venv
+dynamicPyKola.spec
+PyKola.py
+.DS_Store
